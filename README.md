@@ -4,7 +4,7 @@ UNDER DEVELOPMENT
 
 ## Feature tags
 
-- clean architecture
+- clean-architecture
 - react
 - starter
 - template

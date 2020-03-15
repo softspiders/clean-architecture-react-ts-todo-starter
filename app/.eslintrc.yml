@@ -1,0 +1,26 @@
+extends:
+  - eslint:recommended
+  - plugin:@typescript-eslint/eslint-recommended
+  - plugin:@typescript-eslint/recommended
+  - plugin:@typescript-eslint/recommended-requiring-type-checking
+  - react-app
+  - plugin:prettier/recommended
+  - prettier/@typescript-eslint
+
+parser: '@typescript-eslint/parser'
+
+plugins:
+  - '@typescript-eslint'
+
+parserOptions:
+  ecmaFeatures:
+    jsx: true
+  project: ./tsconfig.json
+
+rules:
+  '@typescript-eslint/no-angle-bracket-type-assertion': off
+  '@typescript-eslint/interface-name-prefix': off
+  prettier/prettier:
+    - error
+    - semi: false
+      singleQuote: true
