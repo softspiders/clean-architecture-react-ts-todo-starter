@@ -1,7 +1,7 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # clean-architecture-react-ts-todo-starter
-Starter for *Todo* app that uses *Clean Architecture* on *React* in *TypeScript*
+Starter for *Todo* app on *React* in *TypeScript*that follows *Clean Architecture* principle
 
 ## Feature tags
 
