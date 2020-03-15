@@ -22,7 +22,7 @@ UNDER DEVELOPMENT
 [clean-architecture-todo-example](https://github.com/kentaro-m/clean-architecture-todo-example)
 
 # Clean Architecture Todo Example
-:construction: [WIP] An implementation example of the Todo app using Clean Architecture.
+An implementation example of the Todo app using Clean Architecture.
 
 ![](./demo.png)
 
