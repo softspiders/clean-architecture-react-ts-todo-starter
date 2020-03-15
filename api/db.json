@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "title": "Learn to create the app using Clean Architecture",
+      "isCompleted": true,
+      "id": 1
+    },
+    {
+      "title": "Buy the book about Machine Learning for beginners",
+      "isCompleted": false,
+      "id": 2
+    }
+  ]
+}
