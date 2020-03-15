@@ -1,11 +1,11 @@
 import { TodoItem } from '../entity/TodoItem'
-import { ITodoItemUseCase } from './ITodoItemUseCase'
-import { IRestClient } from '../adapter/IRestClient'
+import { TodoItemService } from './TodoItemService'
+import { RestClient } from '../adapter/RestClient'
 
-export class TodoItemUseCase implements ITodoItemUseCase {
-  client: IRestClient
+export class TodoItemServiceImpl implements TodoItemService {
+  client: RestClient
 
-  constructor(client: IRestClient) {
+  constructor(client: RestClient) {
     this.client = client
   }
 

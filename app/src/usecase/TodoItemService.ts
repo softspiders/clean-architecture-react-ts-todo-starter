@@ -1,6 +1,6 @@
 import { TodoItem } from '../entity/TodoItem'
 
-export interface ITodoItemUseCase {
+export interface TodoItemService {
   findAll(): Promise<TodoItem[] | null>
   findByID(id: number): Promise<TodoItem | null>
   create(title: string): Promise<void>

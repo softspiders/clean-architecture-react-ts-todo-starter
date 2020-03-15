@@ -1,9 +1,9 @@
 import React, { useState, useCallback, useEffect } from 'react'
 import { TodoItem } from '../entity/TodoItem'
-import { TodoItemUseCase } from '../usecase/TodoItemUseCase'
+import { TodoItemServiceImpl } from '../usecase/TodoItemServiceImpl'
 
 interface TodoContainerProps {
-  useCase: TodoItemUseCase
+  useCase: TodoItemServiceImpl
 }
 
 const TodoContainer = ({ useCase }: TodoContainerProps) => {
