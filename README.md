@@ -1,6 +1,7 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # clean-architecture-react-ts-todo-starter
+Starter for *Todo* app that uses *Clean Architecture* on *React* in *TypeScript*
 
 ## Feature tags
 
@@ -23,7 +24,6 @@
 [Kentaro Matsushita's *clean-architecture-todo-example*](https://github.com/kentaro-m/clean-architecture-todo-example)
 
 # Clean Architecture Todo Example
-An implementation example of the Todo app using Clean Architecture.
 
 ![](./demo.png)
 
