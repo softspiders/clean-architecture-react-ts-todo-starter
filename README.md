@@ -2,6 +2,21 @@
 
 UNDER DEVELOPMENT
 
+## Feature tags
+
+- clean architecture
+- react
+- starter
+- template
+- todo
+- typescript
+
+---
+
+## Author
+
+[Alexander Lapygin](https://github.com/AlexanderLapygin) <<alexanderlapygin@gmail.com>>
+
 ## Inspired by
 
 [clean-architecture-todo-example](https://github.com/kentaro-m/clean-architecture-todo-example)
@@ -29,17 +44,8 @@ $ npm install
 $ npm start
 ```
 
-### Run the app on Docker
-My configuration by using Docker is too slow to run the app (It takes time to build the app). I'm not sure why.
+### License
 
-```bash
-$ docker-compose build
-$ docker-compose up
-```
+Licensed under the [MIT license](./LICENSE).
 
-## Class Diagram
-![](./class_diagram.png)
-
-## Licence
-
-MIT
+---
