@@ -1,3 +1,5 @@
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
+
 # clean-architecture-react-ts-todo-starter
 
 ## Feature tags
@@ -14,7 +16,7 @@
 
 ## Author
 
-[Alexander Lapygin](https://github.com/AlexanderLapygin) <<alexanderlapygin@gmail.com>>
+[Alexander Lapygin](https://github.com/AlexanderLapygin) <<alexanderlapygin@gmail.com>> - adaptation for [Soft Spiders](https://github.com/softspiders/softspiders)
 
 ## Inspired by
 
@@ -31,16 +33,16 @@ An implementation example of the Todo app using Clean Architecture.
 - Delete a task
 
 ## Usage
-```bash
+```sh
 # API
-$ cd api
-$ npm install
-$ npm start
+cd api
+npm install
+npm start
 
 # App
-$ cd app
-$ npm install
-$ npm start
+cd app
+npm install
+npm start
 ```
 
 ### License
