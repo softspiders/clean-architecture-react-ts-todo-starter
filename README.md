@@ -1,6 +1,4 @@
-# cleanarchitecture-react-ts-todo-starter
-
-UNDER DEVELOPMENT
+# clean-architecture-react-ts-todo-starter
 
 ## Feature tags
 
@@ -19,7 +17,7 @@ UNDER DEVELOPMENT
 
 ## Inspired by
 
-[clean-architecture-todo-example](https://github.com/kentaro-m/clean-architecture-todo-example)
+[Kentaro Matsushita's *clean-architecture-todo-example*](https://github.com/kentaro-m/clean-architecture-todo-example)
 
 # Clean Architecture Todo Example
 An implementation example of the Todo app using Clean Architecture.
