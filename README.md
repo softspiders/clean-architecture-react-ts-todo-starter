@@ -6,6 +6,7 @@ Starter for *Todo* app on *React* in *TypeScript*that follows *Clean Architectur
 ## Feature tags
 
 - clean-architecture
+- crud
 - material-ui
 - react
 - starter
